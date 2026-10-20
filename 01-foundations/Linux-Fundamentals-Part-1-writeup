@@ -1,0 +1,26 @@
+# Linus Fundamentals Part 1 - Write-up
+
+**Date**: 10/20/2026
+**Platform**: TryHackMe
+**Room**: Linux Fundamentals Part 1
+
+##Overview
+Completed the first Linux Fundamentals Room to practice basic command-line navigation and file operations.
+
+##Commands Practiced
+- ls
+- cd
+- pwd
+- cat
+- find
+- grep
+- Special characters &, &&, >, >>
+
+## Key Findings
+After not using linux commands for a couple years, a basic refresher was nice to ensure my understanding was still accurate.
+Understood each command as presented and was able to put into practice and use each one.
+
+## Screenshots
+
+## Lessons Learned
+Learned that it's important to refresh memory on basic commands that I haven't used in years, just to ensure I still understood their basic functionality.
